@@ -1,0 +1,9 @@
+environ-config
+faker
+factory-boy
+flask
+flask_graphql
+graphene
+graphene-mongo
+mongoengine
+setuptools

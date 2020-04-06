@@ -1,0 +1,16 @@
+### Python ###
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+*.egg-info/
+MANIFEST
+AUTHORS
+ChangeLog
+.eggs/
+build/
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
